@@ -1,2 +1,4 @@
 print("hello world!!")
-a = 112;
+b = 112;
+
+c = 2 * b
